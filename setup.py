@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='BVT Engineering Methods',
+    name='Product_Information',
     version='0.1dev',
     py_modules=[''],
     package_data={'': ['Autex Frontier Acoustic Fins.csv']},
