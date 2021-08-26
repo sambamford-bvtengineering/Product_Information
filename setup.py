@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='Product_Information',
-    version='0.1dev',
+    version='0.2dev',
     py_modules=[''],
     package_data={'': ['Autex Frontier Acoustic Fins.csv']},
     include_package_data=True,
