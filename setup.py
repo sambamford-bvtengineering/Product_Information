@@ -1,11 +1,10 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(
     name="Product_Information",
     version="0.2dev",
-    packages=["Product_Information"],
-    package_dir=["Product_Informartion"],
-    package_data={"": ["Autex Frontier Acoustic Fins.csv"]},
+    packages=find_packages(),
+    package_data={"": ["*.csv"]},
     include_package_data=True,
     license="Creative Commons Attribution-Noncommercial-Share Alike license",
 )
