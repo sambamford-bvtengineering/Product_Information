@@ -16,3 +16,10 @@ def tracklok():
     path = importlib.resources.open_text(data, "tracklok.csv")
 
     return pd.read_csv(path)
+
+def gripple():
+    """Return a dataframe containing tracklok data"""
+
+    path = importlib.resources.open_text(data, "Gripple.csv")
+
+    return pd.read_csv(path)
