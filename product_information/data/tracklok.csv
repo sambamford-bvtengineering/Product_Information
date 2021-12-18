@@ -1,2 +1,16 @@
-Manufacturer,Type,Horizonal Design Capacity (N)
-Tracklok Ltd,Tracklok,210
+Manufacturer,Type,Plenum Height,Brace Specification,Member,Capacity (kg)
+Tracklok,Gridlok,200,Steel,Folded Plate,210
+Tracklok,Gridlok,400,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,600,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,800,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,1000,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,1200,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,1400,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,1600,Steel,64x0.55BMT Stud,210
+Tracklok,Gridlok,1800,Steel,92x0.75BMT Stud,210
+Tracklok,Gridlok,2000,Steel,92x0.75BMT Stud,210
+Tracklok,Gridlok,2200,Steel,Boxed 64x0.55BMT Studs,210
+Tracklok,Gridlok,2400,Steel,Boxed 64x0.55BMT Studs,210
+Tracklok,Gridlok,2600,Steel,Boxed 64x0.55BMT Studs,210
+Tracklok,Gridlok,2800,Steel,Boxed 92x0.75BMT Studs,210
+Tracklok,Gridlok,3000,Steel,Boxed 92x0.75BMT Studs,210
