@@ -3,6 +3,12 @@ from . import data
 import importlib.resources
 
 
+def get_df_from_file_name(filename):
+    """Return a dataframe containing data from specified csv filename"""
+
+    path = importlib.resources.open_text(data, filename)
+    return pd.read_csv(path)
+
 def autex_frontier_acoustic_fins():
     """Return a dataframe containing Autex frontier acoustic fin data"""
 
